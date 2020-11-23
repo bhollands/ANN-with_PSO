@@ -1,4 +1,3 @@
-This project was developed for F20BC class at Heriot-Watt University by Bernard Hollands and Abbie Prescott
 
 This is a Feed forward Multi-Layer Perceptron neural network optimised using 
 Particel Swarm Optimisation for solving mathematical functions with the option of changing the activation function.
